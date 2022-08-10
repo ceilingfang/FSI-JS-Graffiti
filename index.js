@@ -6,7 +6,7 @@ for(let i = 0; i < dogImages.length; i++) {
 }
 let dogNames = document.querySelectorAll('dog-names')
 for(let i = 0; i < dogNames.length; i++) {
-    dogNames[i].style.textAlign ='left'
+    dogNames[i].style.textAlign = 'left'
 }
 
 // Select some elements...
