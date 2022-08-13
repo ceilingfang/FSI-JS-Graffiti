@@ -13,6 +13,7 @@ for(let i = 0; i < dogNames.length; i++) {
 
 let footer = document.querySelector('.footer')
 footer.style.color = 'blue'
+footer.style.borderStyle = solid
 
 let dogDescription = document.querySelectorAll('.dog-description')
 for(let i = 0; i < dogDescription.length; i++) {
